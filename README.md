@@ -27,11 +27,9 @@ How to run ?
 Open terminal and run php artisan migrate:fresh --seed 
 
 Admin 
-Username : admin@gmail.com
-password : admin
+Username : admin@gmail.com / password : admin
 
 User :
-Username : johndoe@gmail.com
-password : 12345
+Username : johndoe@gmail.com / password : 12345
 
 ---------------------Thanks You---------------------------------------
